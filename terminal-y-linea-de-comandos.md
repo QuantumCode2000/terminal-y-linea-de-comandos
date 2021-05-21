@@ -8,7 +8,7 @@
 - [_Comando **help** y **alias**_](#_Comando%20**help**%20y%20**alias**_)
 
 
- # _**¿ Que es un comando ?**_ #
+ # ¿ Que es un comando ? #
 
 
 <!-- (#__*Comandos-para-linux-en-la-terminal*__)  -->

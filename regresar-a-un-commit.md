@@ -17,3 +17,6 @@
 
     subir los cambios
 > `git commit -m "Se revirtieron los cambios" `
+
+
+https://anexsoft.com/como-regresar-un-commit-anterior-con-git-rollback

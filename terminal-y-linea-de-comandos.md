@@ -8,7 +8,7 @@
 - [_Comando **help** y **alias**_](#_Comando%20**help**%20y%20**alias**_)
 
 
-# [__*¿Ques es un comando?*__](#__*Comandos%20para%20linux%20en%20la%20terminal*__)
+# [__*¿Ques es un comando?*__](#__*Comandos%20para%20linux%20en%20la%20terminal*__) #
 >
     un programa ejecutable
 

@@ -1,8 +1,6 @@
 
-__*Comandos para linux en la terminal*__
-=
-
-- [¿Ques es un Comando?](#que-es-un-comando)
+# __*Comandos para linux en la terminal*__
+- [__*Comandos en Linux*__](#__*¿Ques%20es%20un%20comando?*__)
 - [__*Comandos Extra basicos*__](#__*ComandosExtrabasicos*__)
 - [__*Manipulacion de Directorios y Archivos*__](#__*Manipulacion%20de%20Directorios%20y%20Archivos*__)
 - [__*Explorando el contenido de nuestros archivos*__](#__*Explorando%20el%20contenido%20de%20nuestros%20archivos*__)
@@ -10,10 +8,7 @@ __*Comandos para linux en la terminal*__
 - [_Comando **help** y **alias**_](#_Comando%20**help**%20y%20**alias**_)
 
 
-# Que es un comando #
-
-
-<!-- (#__*Comandos-para-linux-en-la-terminal*__)  -->
+# [__*¿Ques es un comando?*__](#__*Comandos%20para%20linux%20en%20la%20terminal*__)
 >
     un programa ejecutable
 
